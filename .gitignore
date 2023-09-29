@@ -1,0 +1,4 @@
+#Ignorar archivos ejecutables de windows
+*.exe
+
+.vs/Project1/v17/Browse.VC.opendb

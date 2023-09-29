@@ -1,0 +1,10 @@
+﻿  Main.c
+C:\Users\user\Desktop\REPOSITORIOS\sc-2320-evalunidad2-quertuy\Main.c(55,23): warning C4473: "fprintf": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\user\Desktop\REPOSITORIOS\sc-2320-evalunidad2-quertuy\Main.c(55,23): message : los marcadores de posición y sus parámetros esperan 7 argumentos variádicos, pero se proporcionaron 6
+C:\Users\user\Desktop\REPOSITORIOS\sc-2320-evalunidad2-quertuy\Main.c(55,23): message : el argumento variádico 7 que falta es requerido por la cadena de formato '%d'
+C:\Users\user\Desktop\REPOSITORIOS\sc-2320-evalunidad2-quertuy\Main.c(210,59): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\user\Desktop\REPOSITORIOS\sc-2320-evalunidad2-quertuy\Main.c(300,38): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\user\Desktop\REPOSITORIOS\sc-2320-evalunidad2-quertuy\Main.c(301,38): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\user\Desktop\REPOSITORIOS\sc-2320-evalunidad2-quertuy\Main.c(302,42): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\user\Desktop\REPOSITORIOS\sc-2320-evalunidad2-quertuy\Main.c(303,42): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Project1.vcxproj -> C:\Users\user\Desktop\REPOSITORIOS\sc-2320-evalunidad2-quertuy\x64\Debug\Project1.exe
